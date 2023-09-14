@@ -1,5 +1,5 @@
-INSERT_RECIPE = 1
-SEE_RECIPE = 2
+INSERT_RECIPE = 1 #CONSTANTES sao um tipo de variavel
+SEE_RECIPE = 2 #sao usadas com letra MAIUSCULA
 EXIT = 3
 
 def welcome() #tem que definir o metodo antes de usar
