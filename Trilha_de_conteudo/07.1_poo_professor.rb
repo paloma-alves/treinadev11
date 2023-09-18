@@ -14,7 +14,6 @@ class Professor #classe professor e como objeto(que sao atributos) o nome do alu
     def inicia_ferias()
         @ferias = true
         @data_inicio_ferias = Time.now()
-
     end
 
     def encerra_ferias()
